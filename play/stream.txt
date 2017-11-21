@@ -1,8 +1,8 @@
-~ ls
+~<span id='b'>/play</span><span id='c'>$</span> ls
 nothing_to_see_here.txt
 
-~ back -link
+~<span id='b'>/play</span><span id='c'>$</span> back -link
 
 <a href="https://phzietsman.github.io">go back</a>
 
-~ <span class="blink">|</span>
+~<span id='b'>/play</span><span id='c'>$</span> <span class="blink">|</span>

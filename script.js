@@ -32,7 +32,6 @@ var Typer = {
 			Typer.index += Typer.speed;	// add to the index the speed
 
 			var text = Typer.text.substring(0, Typer.index);	// parse the text for stripping html enities
-			console.log(text);
 			text = text.replace(/~/g, this.root);
 
 			var rtn = new RegExp("\n", "g"); // newline regex
@@ -46,7 +45,7 @@ var Typer = {
 
 Typer.speed = 3;
 Typer.file = "stream.txt";
-Typer.root = "<span id='a'>paul@zietsman</span>:<span id='b'>~</span><span id='c'>$</span>"
+Typer.root = "<span id='a'>paul@zietsman</span>:<span id='b'>~</span>"
 Typer.init();
 
 var timer = setInterval("t();", 30);
