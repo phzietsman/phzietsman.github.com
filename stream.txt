@@ -1,12 +1,15 @@
 ~<span id='c'>$</span> cat paulzietsman.txt
 Hi, I'm Paul Zietsman.
 
-I like blah blah blah
+I used to be an electronic engineer, but found religion and now I dev for a living.
 
-If you would like to get in touch with me, whether it be for tech support or to just say hi, feel free to send me an email or a tweet. My email address is: <a href="mailto:phzietsman@gmail.com">phzietsman@gmail.com</a> and my Twitter is: <a href="http://twitter.com/phzietsman">@phzietsman</a>.
+I'm into blockchain, crypto, blinky things, nodejs, AWS and sometimes I write code and stuff.
+
+If you would like to get in touch with me, whether it be for tech support :) or to just say hi, feel free to send me an email or a tweet. My email address is: <a href="mailto:phzietsman@gmail.com">phzietsman@gmail.com</a> and my Twitter is: <a href="http://twitter.com/phzietsman">@phzietsman</a>.
 
 ~<span id='c'>$</span> ls /phzietsman.github.io
 <a href="http://phzietsman.github.io/crypto-graph">crypto-graph</a>
-<a href="/play">play</a>
+<a href="https://github.com/phzietsman/node-web-print">node web printer</a>
+<a href="/nothing_to_see">nothing to see</a>
 
 ~<span id='c'>$</span> <span class="blink">|</span>
