@@ -12,4 +12,8 @@ If you would like to get in touch with me, whether it be for tech support :) or 
 <a href="https://github.com/phzietsman/node-web-print">node web printer</a>
 <a href="/nothing_to_see">nothing to see</a>
 
+~<span id='c'>$</span> ls /coming_soon
+blockchain_battleships
+zk_snarks_blog_post
+
 ~<span id='c'>$</span> <span class="blink">|</span>
