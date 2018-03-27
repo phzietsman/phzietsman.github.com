@@ -5,7 +5,7 @@ I used to be an electronic engineer, but found religion and now I dev for a livi
 
 I'm into blockchain, crypto, blinky things, nodejs, AWS and sometimes I write code and stuff.
 
-If you would like to get in touch with me, whether it be for tech support :) or to just say hi, feel free to send me an email or a tweet. My email address is: <a href="mailto:phzietsman@gmail.com">phzietsman@gmail.com</a>, Twitter <a href="http://twitter.com/phzietsman">@phzietsman</a> and Mastodon <a href="https://mastodon.social/@phzietsman"> @phzietsman@mastodon.social.
+If you would like to get in touch with me, whether it be for tech support :) or to just say hi, feel free to send me an email or a tweet. My email address is: <a href="mailto:phzietsman@gmail.com">phzietsman@gmail.com</a>, Twitter <a href="http://twitter.com/phzietsman">@phzietsman</a> and Mastodon <a href="https://mastodon.social/@phzietsman"> @phzietsman@mastodon.social</a>.
 
 ~<span id='c'>$</span> ls /phzietsman.github.io
 <a href="http://phzietsman.github.io/crypto-graph">crypto-graph</a> | cryptograph(y) made easy, a visual map of the state of #crypto
