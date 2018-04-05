@@ -10,12 +10,13 @@ If you would like to get in touch with me, whether it be for tech support :) or 
 ~<span id='c'>$</span> ls /phzietsman.github.io
 <a href="http://phzietsman.github.io/crypto-graph">crypto-graph</a> | cryptograph(y) made easy, a visual map of the state of #crypto
 <a href="https://github.com/phzietsman/FortigateApi">FortigateApi</a> | a better way to interact with your firewall
+<a href="https://github.com/phzietsman/forgetmenot">forgetmenot</a> | The right to be forgotten is not a blockchain friendly idea
 <a href="/nothing_to_see">nothing to see</a>
 
 ~<span id='c'>$</span> ls /work_in_progress
 <a href="https://github.com/phzietsman/blockchain-battleship">blockchain-battleship</a> | a very optimistic battleships game on Ethereum
 
 ~<span id='c'>$</span> ls /coming_soon
-zk_snarks_blog_post
+forgetmenot_blog_post
 
 ~<span id='c'>$</span> <span class="blink">|</span>
