@@ -10,7 +10,8 @@ If you would like to get in touch with me, whether it be for tech support :) or 
 ~<span id='c'>$</span> ls /phzietsman.github.io
 <a href="http://phzietsman.github.io/crypto-graph"  target="_blank">crypto-graph</a> | cryptograph(y) made easy, a visual map of the state of #crypto
 <a href="https://github.com/phzietsman/FortigateApi"  target="_blank">FortigateApi</a> | a better way to interact with your firewall
-<a href="https://github.com/phzietsman/forgetmenot"  target="_blank">forgetmenot</a> | The right to be forgotten is not a blockchain friendly idea
+<a href="https://github.com/phzietsman/forgetmenot"  target="_blank">forgetmenot</a> | the right to be forgotten is not a blockchain friendly idea
+<a href="https://phzietsman.github.io/proof-o-existence/ui/"  target="_blank">proof-o-existence</a> | proof you own shit on Rinkeby
 <a href="/nothing_to_see">nothing to see</a>
 
 ~<span id='c'>$</span> ls /work_in_progress
@@ -18,5 +19,7 @@ If you would like to get in touch with me, whether it be for tech support :) or 
 
 ~<span id='c'>$</span> ls /medium_stories
 <a href="https://medium.com/coinmonks/ethereum-always-and-forever-812371145aa"  target="_blank">Ethereum! Always and Forever</a> | data on a blockchain is forever
+<a href="https://medium.com/coinmonks/batchnooverflow-670f9ae06f54"  target="_blank">BatchNoOverflow</a> | the bug that should not be
+<a href="https://medium.com/@phzietsman/what-am-i-asyncing-about-b5f29bbd7220"  target="_blank">What am I Asyncing about?!</a> | javascript awesomeness
 
 ~<span id='c'>$</span> <span class="blink">|</span>
